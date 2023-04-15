@@ -1,3 +1,5 @@
+-- It is not meant to work cuz just an implementation
+
 local Bezier = loadstring(game:HttpGet("https://raw.githubusercontent.com/Queered/BeizerCurvesLib/main/lib.lua"))()
 
 -- define the control points of the Bezier curve
